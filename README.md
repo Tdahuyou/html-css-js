@@ -969,3 +969,41 @@
 - [ ] [0104. 一些常见的通用 css](https://github.com/Tdahuyou/html-css-js/tree/main/0104.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md) <!-- [locale](./0104.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md) -->  
   - [1. ⏰ 从语雀搬运笔记](https://github.com/Tdahuyou/html-css-js/tree/main/0104.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md#1--从语雀搬运笔记)
   
+
+
+
+## ⏰ 待分组
+
+- [ ] [0107. style 元素的 sheet 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) -->  
+  - [1. **1. 语法**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#1-1-语法)
+  - [2. **2. 示例**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#2-2-示例)
+    - [2.1. **（1）获取 `<style>` 元素的 `sheet`**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#21-1获取-style-元素的-sheet)
+    - [2.2. **（2）动态添加 CSS 规则**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#22-2动态添加-css-规则)
+    - [2.3. **（3）移除 CSS 规则**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#23-3移除-css-规则)
+  - [3. **3. `sheet` 对象的常见属性和方法**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#3-3-sheet-对象的常见属性和方法)
+    - [3.1. **（4）获取所有 CSS 规则**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#31-4获取所有-css-规则)
+    - [3.2. **（5）禁用样式表**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#32-5禁用样式表)
+  - [4. **4. `sheet` 适用于哪些情况？**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#4-4-sheet-适用于哪些情况)
+  - [5. **5. `sheet` 属性适用于 `<style>` 还是 `<link>`？**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#5-5-sheet-属性适用于-style-还是-link)
+  - [6. **6. 结论**](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#6-6-结论)
+  
+  ##
+  
+  `sheet` 属性是 JavaScript 中 **`<style>` 元素** 的一个只读属性，它返回一个 **`CSSStyleSheet` 对象**，表示该 `style` 元素所包含的 **CSS 样式表**。
+  
+  ---
+  
+
+- [ ] [0108. DOMParser](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md) <!-- [locale](./0108.%20DOMParser/README.md) -->  
+  
+  
+  ##
+  
+  
+
+- [ ] [0109. XSLProcessor](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md) <!-- [locale](./0109.%20XSLProcessor/README.md) -->  
+  
+  
+  ##
+  
+  

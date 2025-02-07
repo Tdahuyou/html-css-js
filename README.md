@@ -15,7 +15,7 @@
   - [9. ⚙️ window 对象](#9-️-window-对象)
   - [10. css 属性](#10-css-属性)
   - [11. ⏰ html-css](#11--html-css)
-  - [12. ⏰ 待分组](#12--待分组)
+  - [12. html 元素](#12-html-元素)
 <!-- endregion:toc -->
 
 ## 1. var、let、const
@@ -837,6 +837,34 @@
   - `postMessage` API 可用于实现不同窗口、标签页或 iframe 之间的安全通信。它允许你向另一个浏览上下文（如新打开的窗口、iframe 等）发送消息，并可以接收来自这些上下文的消息。
   
 
+- [ ] [0108. DOMParser](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md) <!-- [locale](./0108.%20DOMParser/README.md) -->  
+  - [1. 📒 DOMParser 概述](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#1--domparser-概述)
+  - [2. 📒 解析 XML 字符串](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#2--解析-xml-字符串)
+  - [3. 📒 代码解析](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#3--代码解析)
+  - [4. 📒 解析 HTML](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#4--解析-html)
+  - [5. 📒 处理 XML 解析错误](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#5--处理-xml-解析错误)
+  - [6. 📒 `DOMParser` 在 Blockly 代码中的应用](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#6--domparser-在-blockly-代码中的应用)
+  - [7. 📒 `DOMParser` vs. `document.createElement`](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#7--domparser-vs-documentcreateelement)
+  - [8. 📒 `DOMParser` vs. `XSLTProcessor`](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#8--domparser-vs-xsltprocessor)
+  
+
+- [ ] [0109. XSLTProcessor](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md) <!-- [locale](./0109.%20XSLTProcessor/README.md) -->  
+  - [1. 什么是 XSLTProcessor？](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#1-什么是-xsltprocessor)
+  - [2. `XSLTProcessor` 的工作流程](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#2-xsltprocessor-的工作流程)
+  - [3. `XSLTProcessor` 代码示例](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#3-xsltprocessor-代码示例)
+    - [3.1. 示例：将 XML 转换为 HTML](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#31-示例将-xml-转换为-html)
+    - [3.2. JavaScript 代码](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#32-javascript-代码)
+    - [3.3. 转换后 HTML 结果](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#33-转换后-html-结果)
+  - [4. `XSLTProcessor` 主要方法](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#4-xsltprocessor-主要方法)
+    - [4.1. 示例：使用 transformToFragment](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#41-示例使用-transformtofragment)
+  - [5. `XSLTProcessor` 在 Blockly 代码中的作用](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#5-xsltprocessor-在-blockly-代码中的作用)
+    - [5.1. `XSLTProcessor` 的优缺点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#51-xsltprocessor-的优缺点)
+  - [6. ✅ 优点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#6--优点)
+  - [7. ❌ 缺点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#7--缺点)
+    - [7.1. 现代替代方案](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#71-现代替代方案)
+    - [7.2. 结论](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#72-结论)
+  
+
 ## 10. css 属性
 
 - [ ] [0105. background](https://github.com/Tdahuyou/html-css-js/tree/main/0105.%20background/README.md) <!-- [locale](./0105.%20background/README.md) -->  
@@ -971,7 +999,7 @@
   - [1. ⏰ 从语雀搬运笔记](https://github.com/Tdahuyou/html-css-js/tree/main/0104.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md#1--从语雀搬运笔记)
   
 
-## 12. ⏰ 待分组
+## 12. html 元素
 
 - [ ] [0107. style 元素的 sheet 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) -->  
   - [1. 📒 `sheet` 属性概述](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#1--sheet-属性概述)
@@ -983,32 +1011,4 @@
   - [7. 📒 禁用样式表](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#7--禁用样式表)
   - [8. 📒 `sheet` 适用于哪些情况？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#8--sheet-适用于哪些情况)
   - [9. 📒 `sheet` 属性适用于 `<style>` 还是 `<link>`？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#9--sheet-属性适用于-style-还是-link)
-  
-
-- [ ] [0108. DOMParser](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md) <!-- [locale](./0108.%20DOMParser/README.md) -->  
-  - [1. 📒 DOMParser 概述](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#1--domparser-概述)
-  - [2. 📒 解析 XML 字符串](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#2--解析-xml-字符串)
-  - [3. 📒 代码解析](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#3--代码解析)
-  - [4. 📒 解析 HTML](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#4--解析-html)
-  - [5. 📒 处理 XML 解析错误](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#5--处理-xml-解析错误)
-  - [6. 📒 `DOMParser` 在 Blockly 代码中的应用](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#6--domparser-在-blockly-代码中的应用)
-  - [7. 📒 `DOMParser` vs. `document.createElement`](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#7--domparser-vs-documentcreateelement)
-  - [8. 📒 `DOMParser` vs. `XSLTProcessor`](https://github.com/Tdahuyou/html-css-js/tree/main/0108.%20DOMParser/README.md#8--domparser-vs-xsltprocessor)
-  
-
-- [ ] [0109. XSLProcessor](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md) <!-- [locale](./0109.%20XSLProcessor/README.md) -->  
-  - [1. 什么是 XSLTProcessor？](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#1-什么是-xsltprocessor)
-  - [2. `XSLTProcessor` 的工作流程](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#2-xsltprocessor-的工作流程)
-  - [3. `XSLTProcessor` 代码示例](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#3-xsltprocessor-代码示例)
-    - [3.1. 示例：将 XML 转换为 HTML](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#31-示例将-xml-转换为-html)
-    - [3.2. JavaScript 代码](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#32-javascript-代码)
-    - [3.3. 转换后 HTML 结果](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#33-转换后-html-结果)
-  - [4. `XSLTProcessor` 主要方法](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#4-xsltprocessor-主要方法)
-    - [4.1. 示例：使用 transformToFragment](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#41-示例使用-transformtofragment)
-  - [5. `XSLTProcessor` 在 Blockly 代码中的作用](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#5-xsltprocessor-在-blockly-代码中的作用)
-    - [5.1. `XSLTProcessor` 的优缺点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#51-xsltprocessor-的优缺点)
-  - [6. ✅ 优点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#6--优点)
-  - [7. ❌ 缺点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#7--缺点)
-    - [7.1. 现代替代方案](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#71-现代替代方案)
-    - [7.2. 结论](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLProcessor/README.md#72-结论)
   

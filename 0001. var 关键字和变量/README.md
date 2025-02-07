@@ -1,4 +1,4 @@
-# [0001. var 关键字和变量](https://github.com/Tdahuyou/javascript/tree/main/0001.%20var%20%E5%85%B3%E9%94%AE%E5%AD%97%E5%92%8C%E5%8F%98%E9%87%8F)
+# [0001. var 关键字和变量](https://github.com/Tdahuyou/html-css-js/tree/main/0001.%20var%20%E5%85%B3%E9%94%AE%E5%AD%97%E5%92%8C%E5%8F%98%E9%87%8F)
 
 <!-- region:toc -->
 - [1. 💡 思维导图](#1--思维导图)

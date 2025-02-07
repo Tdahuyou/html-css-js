@@ -1,4 +1,4 @@
-# [0025. clip-path](https://github.com/Tdahuyou/html-css/tree/main/0025.%20clip-path)
+# [0106. clip-path](https://github.com/Tdahuyou/html-css-js/tree/main/0106.%20clip-path)
 
 <!-- region:toc -->
 - [1. 📒 clip-path 概述](#1--clip-path-概述)

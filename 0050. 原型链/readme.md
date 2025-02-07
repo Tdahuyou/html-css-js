@@ -1,4 +1,4 @@
-# [0050. 原型链](https://github.com/Tdahuyou/javascript/tree/main/0050.%20%E5%8E%9F%E5%9E%8B%E9%93%BE)
+# [0050. 原型链](https://github.com/Tdahuyou/html-css-js/tree/main/0050.%20%E5%8E%9F%E5%9E%8B%E9%93%BE)
 
 
 <!-- region:toc -->

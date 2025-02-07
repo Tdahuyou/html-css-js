@@ -1,4 +1,4 @@
-# [0021. 注释](https://github.com/Tdahuyou/javascript/tree/main/0021.%20%E6%B3%A8%E9%87%8A)
+# [0021. 注释](https://github.com/Tdahuyou/html-css-js/tree/main/0021.%20%E6%B3%A8%E9%87%8A)
 
 <!-- region:toc -->
 - [1. 🔗 JSDoc 官网](#1--jsdoc-官网)

@@ -1,4 +1,4 @@
-# [0079. window.onbeforeunload](https://github.com/Tdahuyou/javascript/tree/main/0079.%20window.onbeforeunload)
+# [0079. window.onbeforeunload](https://github.com/Tdahuyou/html-css-js/tree/main/0079.%20window.onbeforeunload)
 
 <!-- region:toc -->
 - [1. 🔗 mdn - window.onbeforeunload](#1--mdn---windowonbeforeunload)

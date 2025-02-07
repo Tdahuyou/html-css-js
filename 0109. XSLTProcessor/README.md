@@ -14,7 +14,6 @@
 - [6. ✅ 优点](#6--优点)
 - [7. ❌ 缺点](#7--缺点)
   - [7.1. 现代替代方案](#71-现代替代方案)
-  - [7.2. 结论](#72-结论)
 <!-- endregion:toc -->
 
 ## 1. 什么是 XSLTProcessor？
@@ -22,6 +21,13 @@
 - `XSLTProcessor` 是 **XML 转换语言（XSLT，Extensible Stylesheet Language Transformations）** 的 JavaScript 实现，它用于在浏览器中将 **XML** 数据转换为 **HTML 或其他 XML 格式**。
 - XSLT 是一种基于规则的转换语言，它允许使用 **XSL 样式表** 来定义如何转换 XML 结构。例如，可以使用 XSLT **提取**、**重新排列** 或 **格式化** XML 数据，并最终呈现为 HTML 页面或新的 XML 结构。
 - `XSLTProcessor` 是 **浏览器内置的 API**，可以在 JavaScript 中使用它来执行 XML 转换。
+- `XSLTProcessor` 是一个 **XML 转换工具**，用于将 **XML 转换为 HTML** 或其他 XML 结构。
+- `Blockly` 使用 `XSLTProcessor` 解析 **工具箱 XML**，但 **IE 9+ 不支持**，因此需要兼容处理。
+- 在现代 JavaScript 中，通常使用 **DOMParser** 或 **前端框架（React/Vue）** 代替 `XSLTProcessor` 进行 XML 解析和渲染。
+
+虽然 `XSLTProcessor` **在某些场景仍然有效**，但由于其 **跨浏览器兼容性问题**，它已经逐渐被 **现代 JavaScript 解析技术** 所取代。
+XSLTProcessor 介绍
+
 
 ## 2. `XSLTProcessor` 的工作流程
 
@@ -188,14 +194,3 @@ var xmlDoc = parser.parseFromString(xmlString, 'text/xml')
 var title = xmlDoc.getElementsByTagName('title')[0].textContent
 console.log(title) // 输出: JS Guide
 ```
-
----
-
-### 7.2. 结论
-
-- `XSLTProcessor` 是一个 **XML 转换工具**，用于将 **XML 转换为 HTML** 或其他 XML 结构。
-- `Blockly` 使用 `XSLTProcessor` 解析 **工具箱 XML**，但 **IE 9+ 不支持**，因此需要兼容处理。
-- 在现代 JavaScript 中，通常使用 **DOMParser** 或 **前端框架（React/Vue）** 代替 `XSLTProcessor` 进行 XML 解析和渲染。
-
-虽然 `XSLTProcessor` **在某些场景仍然有效**，但由于其 **跨浏览器兼容性问题**，它已经逐渐被 **现代 JavaScript 解析技术** 所取代。
-XSLTProcessor 介绍

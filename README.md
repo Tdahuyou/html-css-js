@@ -862,7 +862,6 @@
   - [6. ✅ 优点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#6--优点)
   - [7. ❌ 缺点](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#7--缺点)
     - [7.1. 现代替代方案](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#71-现代替代方案)
-    - [7.2. 结论](https://github.com/Tdahuyou/html-css-js/tree/main/0109.%20XSLTProcessor/README.md#72-结论)
   
 
 ## 10. css 属性

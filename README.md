@@ -1011,3 +1011,12 @@
   - [8. 📒 `sheet` 适用于哪些情况？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#8--sheet-适用于哪些情况)
   - [9. 📒 `sheet` 属性适用于 `<style>` 还是 `<link>`？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#9--sheet-属性适用于-style-还是-link)
   
+
+
+
+## ⏰ 待分组
+
+- [ ] [0110. script 标签](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E6%A0%87%E7%AD%BE/README.md) <!-- [locale](./0110.%20script%20%E6%A0%87%E7%AD%BE/README.md) -->  
+  - [1. 📒 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E6%A0%87%E7%AD%BE/README.md#1--type-属性)
+  - [2. 📒 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E6%A0%87%E7%AD%BE/README.md#2--crossorigin-属性)
+  

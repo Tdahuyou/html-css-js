@@ -1012,11 +1012,10 @@
   - [9. 📒 `sheet` 属性适用于 `<style>` 还是 `<link>`？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#9--sheet-属性适用于-style-还是-link)
   
 
+- [ ] [0110. script 元素的 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md) -->  
+  - [1. 📒 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md#1--crossorigin-属性)
+  
 
-
-## ⏰ 待分组
-
-- [ ] [0110. script 标签](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E6%A0%87%E7%AD%BE/README.md) <!-- [locale](./0110.%20script%20%E6%A0%87%E7%AD%BE/README.md) -->  
-  - [1. 📒 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E6%A0%87%E7%AD%BE/README.md#1--type-属性)
-  - [2. 📒 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E6%A0%87%E7%AD%BE/README.md#2--crossorigin-属性)
+- [ ] [0111. script 元素的 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md) -->  
+  - [1. 📒 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md#1--type-属性)
   

@@ -14,8 +14,8 @@
   - [8. 模块化](#8-模块化)
   - [9. ⚙️ window 对象](#9-️-window-对象)
   - [10. css 属性](#10-css-属性)
-  - [11. ⏰ html-css](#11--html-css)
-  - [12. html 元素](#12-html-元素)
+  - [11. html 元素](#11-html-元素)
+  - [12. ⏰ html-css](#12--html-css)
 <!-- endregion:toc -->
 
 ## 1. var、let、const
@@ -902,7 +902,29 @@
     - can i use clip-path
   
 
-## 11. ⏰ html-css
+## 11. html 元素
+
+- [ ] [0107. style 元素的 sheet 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) -->  
+  - [1. 📒 `sheet` 属性概述](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#1--sheet-属性概述)
+  - [2. 📒 获取 `<style>` 元素的 `sheet`](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#2--获取-style-元素的-sheet)
+  - [3. 📒 动态添加 CSS 规则](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#3--动态添加-css-规则)
+  - [4. 📒 移除 CSS 规则](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#4--移除-css-规则)
+  - [5. 📒 `sheet` 对象的常见属性和方法](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#5--sheet-对象的常见属性和方法)
+  - [6. 📒 获取所有 CSS 规则](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#6--获取所有-css-规则)
+  - [7. 📒 禁用样式表](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#7--禁用样式表)
+  - [8. 📒 `sheet` 适用于哪些情况？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#8--sheet-适用于哪些情况)
+  - [9. 📒 `sheet` 属性适用于 `<style>` 还是 `<link>`？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#9--sheet-属性适用于-style-还是-link)
+  
+
+- [ ] [0110. script 元素的 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md) -->  
+  - [1. 📒 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md#1--crossorigin-属性)
+  
+
+- [ ] [0111. script 元素的 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md) -->  
+  - [1. 📒 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md#1--type-属性)
+  
+
+## 12. ⏰ html-css
 
 - [ ] [0082. img 元素宽度撑满，防止溢出容器](https://github.com/Tdahuyou/html-css-js/tree/main/0082.%20img%20%E5%85%83%E7%B4%A0%E5%AE%BD%E5%BA%A6%E6%92%91%E6%BB%A1%EF%BC%8C%E9%98%B2%E6%AD%A2%E6%BA%A2%E5%87%BA%E5%AE%B9%E5%99%A8/README.md) <!-- [locale](./0082.%20img%20%E5%85%83%E7%B4%A0%E5%AE%BD%E5%BA%A6%E6%92%91%E6%BB%A1%EF%BC%8C%E9%98%B2%E6%AD%A2%E6%BA%A2%E5%87%BA%E5%AE%B9%E5%99%A8/README.md) -->  
   - [1. ⏰ 从语雀搬运笔记](https://github.com/Tdahuyou/html-css-js/tree/main/0082.%20img%20%E5%85%83%E7%B4%A0%E5%AE%BD%E5%BA%A6%E6%92%91%E6%BB%A1%EF%BC%8C%E9%98%B2%E6%AD%A2%E6%BA%A2%E5%87%BA%E5%AE%B9%E5%99%A8/README.md#1--从语雀搬运笔记)
@@ -996,26 +1018,4 @@
 
 - [ ] [0104. 一些常见的通用 css](https://github.com/Tdahuyou/html-css-js/tree/main/0104.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md) <!-- [locale](./0104.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md) -->  
   - [1. ⏰ 从语雀搬运笔记](https://github.com/Tdahuyou/html-css-js/tree/main/0104.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md#1--从语雀搬运笔记)
-  
-
-## 12. html 元素
-
-- [ ] [0107. style 元素的 sheet 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md) -->  
-  - [1. 📒 `sheet` 属性概述](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#1--sheet-属性概述)
-  - [2. 📒 获取 `<style>` 元素的 `sheet`](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#2--获取-style-元素的-sheet)
-  - [3. 📒 动态添加 CSS 规则](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#3--动态添加-css-规则)
-  - [4. 📒 移除 CSS 规则](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#4--移除-css-规则)
-  - [5. 📒 `sheet` 对象的常见属性和方法](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#5--sheet-对象的常见属性和方法)
-  - [6. 📒 获取所有 CSS 规则](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#6--获取所有-css-规则)
-  - [7. 📒 禁用样式表](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#7--禁用样式表)
-  - [8. 📒 `sheet` 适用于哪些情况？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#8--sheet-适用于哪些情况)
-  - [9. 📒 `sheet` 属性适用于 `<style>` 还是 `<link>`？](https://github.com/Tdahuyou/html-css-js/tree/main/0107.%20style%20%E5%85%83%E7%B4%A0%E7%9A%84%20sheet%20%E5%B1%9E%E6%80%A7/README.md#9--sheet-属性适用于-style-还是-link)
-  
-
-- [ ] [0110. script 元素的 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md) -->  
-  - [1. 📒 crossorigin 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0110.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20crossorigin%20%E5%B1%9E%E6%80%A7/README.md#1--crossorigin-属性)
-  
-
-- [ ] [0111. script 元素的 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md) <!-- [locale](./0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md) -->  
-  - [1. 📒 type 属性](https://github.com/Tdahuyou/html-css-js/tree/main/0111.%20script%20%E5%85%83%E7%B4%A0%E7%9A%84%20type%20%E5%B1%9E%E6%80%A7/README.md#1--type-属性)
   

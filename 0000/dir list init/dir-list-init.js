@@ -11,8 +11,7 @@ for (let i = 1; i <= maxNumber; i++) {
   console.log(key)
   data[key] = {
     bilibili: [],
-    done: false,
-    ignore: false,
+    done: false
   }
 }
 
